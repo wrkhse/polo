@@ -70,7 +70,7 @@ thread; phone carries them in the conversation.
 - [ ] iMessage/chat channel
 - [ ] Phone channel
 - [ ] Generated UI and same-channel approvals
-- [ ] Publish polo 0.1.0 to the stevenjpx2/taps tap
+- [ ] Publish polo 0.1.0 to the wrkhse/tap tap
 
 ## More
 
